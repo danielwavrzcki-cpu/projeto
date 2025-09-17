@@ -1,0 +1,10 @@
+body{
+    background-color:black;
+    font-family : Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(7, 119, 153);
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    
+
+}
